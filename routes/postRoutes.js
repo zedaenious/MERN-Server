@@ -8,6 +8,4 @@ dotenv.config();
 
 const router = express.Router();
 
-const routes = () => {};
-
-export default routes;
+export default router;
